@@ -24,7 +24,7 @@ O programa permite consultar um CEP e exibe informações como cidade, bairro, r
 
 Instale a biblioteca Requests:
 
-pip install requests
+pip install -r requirements.txt
 
 Depois execute:
 
